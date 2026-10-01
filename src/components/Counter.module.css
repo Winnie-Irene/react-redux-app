@@ -11,6 +11,11 @@
     margin: auto;
 }
 
+.counterContainer h2 {
+    color: #213547;
+    margin: 0;
+}
+
 button {
     padding: 10px 15px;
     margin: 5px;
